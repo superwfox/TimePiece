@@ -1,0 +1,4 @@
+name: TimePiece
+version: '1.0'
+main: sudark2.Sudark.timePiece.TimePiece
+api-version: '1.21'
