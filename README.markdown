@@ -1,6 +1,6 @@
 # TimePiece Plugin
 
-## (让我们说中文！)[https://github.com/superwfox/TimePiece/blob/master/README_zh.markdown]
+## [让我们说中文！](https://github.com/superwfox/TimePiece/blob/master/README_zh.markdown)
 
 ## Overview
 TimePiece is a lightweight Minecraft plugin designed for builders. It extends the daytime duration to 20 minutes while keeping the nighttime at its default length of 10 minutes. This allows players to have more time to build in daylight, enhancing the building experience on servers with a normal world environment.
